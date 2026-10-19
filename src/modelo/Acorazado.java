@@ -1,7 +1,9 @@
 package quetzal.modelo;
 
 import java.awt.Color;
+/*Color: proporciona colores para representar la nave.*/
 import quetzal.util.Constantes;
+/*Constantes: contiene los valores de configuración del juego. */
 
 /** Dificultad Difícil: velocidad baja (nave pesada), ráfagas cada 0.3 seg. */
 public class Acorazado extends Nave {
