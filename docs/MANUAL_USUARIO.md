@@ -51,21 +51,21 @@ classpath.
 Escribe un nombre y elige una de las tres dificultades. La dificultad define
 el modelo de nave con el que volarás siempre que elijas a ese piloto:
 
-| Dificultad | Nave | Estilo de juego |
-|---|---|---|
-| Fácil | Explorador | Se mueve rápido; dispara cada 2 segundos |
-| Normal | Caza Estelar | Velocidad y cadencia de disparo equilibradas (1 segundo) |
-| Difícil | Acorazado | Se mueve lento (más difícil de esquivar); dispara en ráfagas cada 0.3 segundos |
+| Dificultad | Nave         | Estilo de juego                                                                |
+| ---------- | ------------ | ------------------------------------------------------------------------------ |
+| Fácil      | Explorador   | Se mueve rápido; dispara cada 2 segundos                                       |
+| Normal     | Caza Estelar | Velocidad y cadencia de disparo equilibradas (1 segundo)                       |
+| Difícil    | Acorazado    | Se mueve lento (más difícil de esquivar); dispara en ráfagas cada 0.3 segundos |
 
 ## 6. Controles durante la partida
 
-| Tecla | Acción |
-|---|---|
-| ↑ / W | Mover la nave hacia arriba |
-| ↓ / S | Mover la nave hacia abajo |
-| ← / A | Mover la nave a la izquierda (dentro de su franja permitida) |
-| → / D | Mover la nave a la derecha (dentro de su franja permitida) |
-| Barra espaciadora (mantener presionada) | Disparar, según la cadencia de la nave |
+| Tecla                                   | Acción                                                       |
+| --------------------------------------- | ------------------------------------------------------------ |
+| ↑ / W                                   | Mover la nave hacia arriba                                   |
+| ↓ / S                                   | Mover la nave hacia abajo                                    |
+| ← / A                                   | Mover la nave a la izquierda (dentro de su franja permitida) |
+| → / D                                   | Mover la nave a la derecha (dentro de su franja permitida)   |
+| Barra espaciadora (mantener presionada) | Disparar, según la cadencia de la nave                       |
 
 ![Juego en curso](capturas/04_juego_en_curso.png)
 
